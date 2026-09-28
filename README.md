@@ -7,12 +7,13 @@ I'm a student at **UT Austin** and co-founder of **ServiQ**, a restaurant-techno
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+[![Website](https://img.shields.io/badge/Website-bf5700?logo=googlechrome&logoColor=white)](https://shivamparekh618-gif.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-parekh-aa4b23274)
 
 ## About me
 
-- 🍽️ **Co-Founder, Head of Legal, People & Operations at ServiQ**: building a unified operations platform that connects restaurant POS, digital ordering, finance and labor data
-- 💼 **CFO at Let'sNavi**: an AI-powered local discovery platform
+- 🍽️ **Co-Founder, Head of Legal, People & Operations at [ServiQ](https://serviq-owner-demo.vercel.app/app/ask)**: building a unified operations platform that connects restaurant POS, digital ordering, finance and labor data
+- 💼 **CFO at [Let'sNavi](https://letsnavi.com/)**: an AI-powered local discovery platform
 - 🧑‍🍳 **General Manager at Hummus Republic**: ran daily operations and an 8-person team at a fast-casual restaurant
 - 📈 **Proprietary futures trader (Topstep)**: managed funded accounts with a focus on risk management
 - 🎓 **The University of Texas at Austin**: B.S., Pre-Law Studies, expected May 2029 · Texas Business Law Association · Texas BNT
@@ -38,4 +39,4 @@ Sorts 311 complaint queues into *growing*, *chronic* and *healthy*, and finds th
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/shivam-parekh-aa4b23274) · Greater Houston / Austin, TX
+[Website](https://shivamparekh618-gif.github.io) · [LinkedIn](https://www.linkedin.com/in/shivam-parekh-aa4b23274) · Greater Houston / Austin, TX
