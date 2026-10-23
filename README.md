@@ -12,8 +12,7 @@ I'm a student at **UT Austin** and co-founder of **ServiQ**, a restaurant-techno
 
 ## About me
 
-- 🍽️ **Co-Founder, Head of Legal, People & Operations at [ServiQ](https://serviq-owner-demo.vercel.app/app/ask)**: building a unified operations platform that connects restaurant POS, digital ordering, finance and labor data
-- 💼 **CFO at [Let'sNavi](https://letsnavi.com/)**: an AI-powered local discovery platform
+- 💼 **CFO and CLO at [Let'sNavi](https://letsnavi.com/)**: an AI-powered local discovery platform
 - 🧑‍🍳 **General Manager at Hummus Republic**: ran daily operations and an 8-person team at a fast-casual restaurant
 - 📈 **Proprietary futures trader (Topstep)**: managed funded accounts with a focus on risk management
 - 🎓 **The University of Texas at Austin**: B.S., Pre-Law Studies, expected May 2029 · Texas Business Law Association · Texas BNT
