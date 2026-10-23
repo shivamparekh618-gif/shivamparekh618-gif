@@ -13,7 +13,6 @@ I'm a student at **UT Austin** and the CLO and CFO of **[LetsNavi](https://letsn
 ## About me
 
 - 🧭 **CLO and CFO at [LetsNavi](https://letsnavi.com/)**: formed the company, set up its S-corp election, and built and run its legal, equity and finance stack
-- 🍽️ **Co-founder of ServiQ**: a restaurant-technology startup
 - 🧑‍🍳 **General Manager at Hummus Republic**: ran daily operations and an 8-person team at a fast-casual restaurant
 - 📈 **Proprietary futures trader (Topstep)**: managed funded accounts with a focus on risk management
 - 🎓 **The University of Texas at Austin**: B.S., Pre-Law Studies, expected May 2029 · Texas Business Law Association · Texas BNT
@@ -26,7 +25,7 @@ Turns one config file into a cap table, a control report, a vesting and 83(b) ca
 **Result:** shows why a 45% holder controls 57% of the vote (unissued reserve units don't vote), something a spreadsheet with only a "%" column never shows.
 
 ### [Restaurant Order Reconciliation](https://github.com/shivamparekh618-gif/restaurant-order-reconciliation) · [live demo](https://shivamparekh618-gif.github.io/restaurant-order-reconciliation/)
-Matches delivery-app orders against a restaurant's POS, even when staff type the order ID wrong or leave it blank. It flags orders that never reached the kitchen, cancellations that weren't voided and menu prices that drifted apart, then ranks them by dollars at risk. Shaped by running a restaurant floor and by the problems ServiQ works on.
+Matches delivery-app orders against a restaurant's POS, even when staff type the order ID wrong or leave it blank. It flags orders that never reached the kitchen, cancellations that weren't voided and menu prices that drifted apart, then ranks them by dollars at risk. Shaped by running a restaurant floor.
 **Result:** traces 141 small price mismatches to a single stale menu price worth about $6k a year, with 100% match precision against the answer key.
 
 ### [NYC 311 Backlog Triage](https://github.com/shivamparekh618-gif/nyc-311-backlog-triage) · [live demo](https://shivamparekh618-gif.github.io/nyc-311-backlog-triage/)
