@@ -13,9 +13,8 @@ I'm a student at **UT Austin** and the CLO and CFO of **[LetsNavi](https://letsn
 ## About me
 
 - 🧭 **CLO and CFO at [LetsNavi](https://letsnavi.com/)**: formed the company, set up its S-corp election, and built and run its legal, equity and finance stack
-- 🧑‍🍳 **General Manager at Hummus Republic**: ran daily operations and an 8-person team at a fast-casual restaurant
 - 📈 **Proprietary futures trader (Topstep)**: managed funded accounts with a focus on risk management
-- 🎓 **The University of Texas at Austin**: B.S., Pre-Law Studies, expected May 2029 · Texas Business Law Association · Texas BNT
+- 🎓 **The University of Texas at Austin**: B.S., Pre-Law Studies, expected May 2029 · Texas Business Law Association
 - 🗣️ English, Spanish, Hindi, Gujarati
 
 ## Projects
